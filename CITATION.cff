@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper."
+title: "Zero- and Few-Shot Kanuri Sentiment Classification with Multilingual LLMs: Translation Access Outweighs Demonstrations"
+authors:
+  - family-names: Saleh
+    given-names: Bashir Maina
+  - family-names: Bilgaiyan
+    given-names: Saurabh
+  - family-names: Sagnika
+    given-names: Santwana
+year: 2026
+repository-code: "https://github.com/bsmaina/kanuri-llm-sentiment"

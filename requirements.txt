@@ -1,0 +1,10 @@
+torch==2.14.1
+transformers==4.57.6
+bitsandbytes
+accelerate
+scikit-learn
+pandas
+numpy
+scipy
+statsmodels
+openpyxl
